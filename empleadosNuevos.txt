@@ -1,0 +1,9 @@
+nombre: Ana García
+dni: 32000036G
+sexo: M
+categoria: 4
+anyos: 7
+
+nombre: Marcelo Arjona
+dni: 32000039G
+sexo: F
